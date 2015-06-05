@@ -1,5 +1,8 @@
 ----------- HANOI PROBLEM SOLVING ALGORITHM WITH CONSOLE GRAPHICS --------------
 
+This program was created as a school project on Videnska high school
+in second grade (when I was 16 years old).
+
 For Windows only (using windows.h).
 
 Usage:
